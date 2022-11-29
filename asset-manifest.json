@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://alishaikh9890.github.io/csb-g7sf30/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://alishaikh9890.github.io/csb-g7sf30/static/js/main.15f3e67a.chunk.js",
+    "main.js.map": "https://alishaikh9890.github.io/csb-g7sf30/static/js/main.15f3e67a.chunk.js.map",
+    "runtime-main.js": "https://alishaikh9890.github.io/csb-g7sf30/static/js/runtime-main.e065f969.js",
+    "runtime-main.js.map": "https://alishaikh9890.github.io/csb-g7sf30/static/js/runtime-main.e065f969.js.map",
+    "static/js/2.76e082fa.chunk.js": "https://alishaikh9890.github.io/csb-g7sf30/static/js/2.76e082fa.chunk.js",
+    "static/js/2.76e082fa.chunk.js.map": "https://alishaikh9890.github.io/csb-g7sf30/static/js/2.76e082fa.chunk.js.map",
+    "index.html": "https://alishaikh9890.github.io/csb-g7sf30/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://alishaikh9890.github.io/csb-g7sf30/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.76e082fa.chunk.js.LICENSE.txt": "https://alishaikh9890.github.io/csb-g7sf30/static/js/2.76e082fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e065f969.js",
+    "static/js/2.76e082fa.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.15f3e67a.chunk.js"
+  ]
+}
